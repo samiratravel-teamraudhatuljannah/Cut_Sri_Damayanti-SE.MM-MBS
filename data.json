@@ -54,56 +54,56 @@
   "gallery": [
     {
       "id": "1780288128057",
-      "caption": "5 langkah mudah",
+      "caption": "koleksi",
       "type": "image",
-      "url": "./assets/gallery/gallery_6.jpg",
+      "url": "./assets/gallery/gallery_1.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=5%20langkah%20mudah"
     },
     {
       "id": "1780288234045",
-      "caption": "umroh dulu bayar nanti",
+      "caption": "koleksi",
       "type": "image",
-      "url": "./assets/gallery/gallery_1.jpg",
+      "url": "./assets/gallery/gallery_2.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=umroh%20dulu%20bayar%20nanti"
     },
     {
       "id": "1780288266229",
-      "caption": "tabungan umroh",
+      "caption": "koleksi",
       "type": "image",
-      "url": "./assets/gallery/gallery_2.jpg",
+      "url": "./assets/gallery/gallery_3.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=tabungan%20umroh"
     },
     {
       "id": "1780288324319",
-      "caption": "syiar ke calon jamaah",
-      "type": "image",
-      "url": "./assets/gallery/gallery_3.jpg",
-      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=syiar%20ke%20calon%20jamaah"
-    },
-    {
-      "id": "1780288341864",
-      "caption": "syiar ke calon jamaah",
+      "caption": "koleksi",
       "type": "image",
       "url": "./assets/gallery/gallery_4.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=syiar%20ke%20calon%20jamaah"
     },
     {
-      "id": "1780288356864",
-      "caption": "mitra resmi",
+      "id": "1780288341864",
+      "caption": "koleksi",
       "type": "image",
       "url": "./assets/gallery/gallery_5.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=syiar%20ke%20calon%20jamaah"
+    },
+    {
+      "id": "1780288356864",
+      "caption": "koleksi",
+      "type": "image",
+      "url": "./assets/gallery/gallery_6.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=mitra%20resmi"
     },
     {
       "id": "1780288372456",
-      "caption": "mitra resmi",
+      "caption": "koleksi",
       "type": "image",
       "url": "./assets/gallery/gallery_7.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=mitra%20resmi"
     },
     {
       "id": "1780288395433",
-      "caption": "sesi foto di masjid nabawi",
+      "caption": "koleksi",
       "type": "image",
       "url": "./assets/gallery/gallery_8.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=sesi%20foto%20di%20masjid%20nabawi"
@@ -132,8 +132,8 @@
       "title": "Keutamaan Ibadah di Bulan Ramadhan",
       "excerpt": "Rahasia pahala berlipat ganda saat melaksanakan umroh di bulan suci.",
       "content": "Lorem ipsum dolor sit amet...",
-      "date": "2025-02-20",
-      "image": "./assets/blog/blog_2.jpg"
+      "date": "2026-06-01",
+      "image": "./assets/blog/blog_1.jpg"
     },
     {
       "id": "1780288526316",
@@ -141,13 +141,13 @@
       "excerpt": "Persiapan fisik, mental, dan administrasi untuk umroh yang mabrur.",
       "content": "",
       "date": "2026-06-01",
-      "image": "./assets/blog/blog_3.jpg"
+      "image": "./assets/blog/blog_2.jpg"
     }
   ],
   "brochure": "./assets/brochure/brochure.jpg",
   "brochureFallback": "https://placehold.co/320x420/bfe2f2/0d5f7e?text=Brosur+Samira",
   "logo": "./assets/logo/logo.png",
   "logoFallback": "https://placehold.co/200x60/bfdff0/1c6c8f?text=Samira",
-  "mitraPhoto": "./assets/mitra/mitra.jpg",
+  "mitraPhoto": "./assets/mitra/mitra.png",
   "mitraPhotoFallback": "https://placehold.co/150x150/3a8bbb/white?text=Mitra"
 }
