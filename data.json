@@ -1,7 +1,7 @@
 {
   "settings": {
     "brandName": "Raudhatul Jannah Team",
-    "tagline": "Cut Sri Damayanti, SE.MM SAMIRA TRAVEL",
+    "tagline": "Cut Sri Damayanti,SE.MM SAMIRA TRAVEL",
     "navHome": "Beranda",
     "navBlog": "Blog",
     "navMitra": "Mitra",
@@ -38,9 +38,9 @@
     "footerBg": "#e0f0f8"
   },
   "mapLocation": {
-    "lat": -7.0934851,
-    "lng": 107.9561131,
-    "zoom": 15
+    "lat": -6.230698,
+    "lng": 106.985545,
+    "zoom": 12
   },
   "carousel": [
     {
