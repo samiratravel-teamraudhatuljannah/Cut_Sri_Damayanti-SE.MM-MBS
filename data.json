@@ -1,7 +1,7 @@
 {
   "settings": {
     "brandName": "Raudhatul Jannah Team",
-    "tagline": "Lia_Nurlia SAMIRA TRAVEL",
+    "tagline": "Cut Sri Damayanti, SE.MM SAMIRA TRAVEL",
     "navHome": "Beranda",
     "navBlog": "Blog",
     "navMitra": "Mitra",
@@ -9,23 +9,23 @@
     "navMaps": "Lokasi",
     "navWA": "Hubungi",
     "mitraTitle": "Mitra Resmi Samira Travel",
-    "mitraName": "Lia_Nurlia-MBS",
-    "mitraAddress": "Kp Jampang Rt 01 Rw 03 Desa: Leuwigoong\nKecamatan : Leuwigoong\nKabupaten Garut 44192",
-    "waNumber1": "6281222204262",
-    "waNumber2": "6281222204262",
+    "mitraName": "Cut Sri Damayanti, SE.MM",
+    "mitraAddress": "Kavling Agraria POJ, Jalan Agraria 1 No 2 RT.01 RW 26 Kelurahan Kayuringan Jaya, Kecamatan Bekasi Selatan, Kota Bekasi",
+    "waNumber1": "6281380050582",
+    "waNumber2": "6281380050582",
     "galleryTitle": "Galeri Perjalanan",
     "brochureTitle": "Program & Brosur",
     "brochureHeading": "Paket Umroh & Haji Furoda",
     "brochureDesc": "Dapatkan brosur digital dengan fasilitas lengkap, jadwal keberangkatan, dan promo terbaru dari mitra resmi Samira Travel.",
     "footerText": "Samira Travel • Melayani Ibadah dengan Hati",
-    "footerAddress": "Mitra/Tour leader : Lia_Nurlia-MBS (Leuwigoong, Garut)",
+    "footerAddress": "Mitra/Tour leader : Cut Sri Damayanti, SE.MM (Bekasi Selatan, Kota Bekasi)",
     "copyright": "© 2026 Samira Travel | Umroh & Haji Terpercaya",
     "mapsTitle": "Lokasi Mitra Kami",
-    "mapsAddress": "Kp Jampang Rt 01 Rw 03 Desa: Leuwigoong Kecamatan : Leuwigoong Kabupaten Garut 44192",
+    "mapsAddress": "Kavling Agraria POJ, Jalan Agraria 1 No 2 RT.01 RW 26 Kelurahan Kayuringan Jaya, Kecamatan Bekasi Selatan, Kota Bekasi",
     "blogTitle": "Wujudkan Impian Anda dan Keluarga ke Baitullah Bersama Samira Travel",
-    "contactName": "Lia_Nurlia-MBS",
-    "contactWA": "6281222204262",
-    "contactPhone": "6281222204262"
+    "contactName": "Cut Sri Damayanti, SE.MM",
+    "contactWA": "6281380050582",
+    "contactPhone": "6281380050582"
   },
   "colors": {
     "primary": "#1c84b5",
@@ -63,42 +63,42 @@
       "id": "1780288128057",
       "caption": "5 langkah mudah",
       "type": "image",
-      "url": "./assets/gallery/gallery_1.jpg",
+      "url": "./assets/gallery/gallery_6.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=5%20langkah%20mudah"
     },
     {
       "id": "1780288234045",
       "caption": "umroh dulu bayar nanti",
       "type": "image",
-      "url": "./assets/gallery/gallery_2.jpg",
+      "url": "./assets/gallery/gallery_1.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=umroh%20dulu%20bayar%20nanti"
     },
     {
       "id": "1780288266229",
       "caption": "tabungan umroh",
       "type": "image",
-      "url": "./assets/gallery/gallery_3.jpg",
+      "url": "./assets/gallery/gallery_2.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=tabungan%20umroh"
     },
     {
       "id": "1780288324319",
       "caption": "syiar ke calon jamaah",
       "type": "image",
-      "url": "./assets/gallery/gallery_4.jpg",
+      "url": "./assets/gallery/gallery_3.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=syiar%20ke%20calon%20jamaah"
     },
     {
       "id": "1780288341864",
       "caption": "syiar ke calon jamaah",
       "type": "image",
-      "url": "./assets/gallery/gallery_5.jpg",
+      "url": "./assets/gallery/gallery_4.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=syiar%20ke%20calon%20jamaah"
     },
     {
       "id": "1780288356864",
       "caption": "mitra resmi",
       "type": "image",
-      "url": "./assets/gallery/gallery_6.jpg",
+      "url": "./assets/gallery/gallery_5.jpg",
       "fallback": "https://placehold.co/600x400/3a8bbb/white?text=mitra%20resmi"
     },
     {
@@ -140,7 +140,7 @@
       "excerpt": "Rahasia pahala berlipat ganda saat melaksanakan umroh di bulan suci.",
       "content": "Lorem ipsum dolor sit amet...",
       "date": "2025-02-20",
-      "image": "https://placehold.co/600x400/6ec1e4/white?text=Ramadhan"
+      "image": "./assets/blog/blog_2.jpg"
     },
     {
       "id": "1780288526316",
